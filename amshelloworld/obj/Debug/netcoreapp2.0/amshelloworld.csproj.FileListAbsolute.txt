@@ -1,0 +1,10 @@
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\bin\Debug\netcoreapp2.0\amshelloworld.deps.json
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\bin\Debug\netcoreapp2.0\amshelloworld.runtimeconfig.json
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\bin\Debug\netcoreapp2.0\amshelloworld.runtimeconfig.dev.json
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\bin\Debug\netcoreapp2.0\amshelloworld.dll
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\bin\Debug\netcoreapp2.0\amshelloworld.pdb
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\obj\Debug\netcoreapp2.0\amshelloworld.csproj.CoreCompileInputs.cache
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\obj\Debug\netcoreapp2.0\amshelloworld.AssemblyInfoInputs.cache
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\obj\Debug\netcoreapp2.0\amshelloworld.AssemblyInfo.cs
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\obj\Debug\netcoreapp2.0\amshelloworld.dll
+C:\Users\ss0055721\source\repos\amshelloworld\amshelloworld\obj\Debug\netcoreapp2.0\amshelloworld.pdb
